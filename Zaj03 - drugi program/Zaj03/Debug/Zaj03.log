@@ -1,0 +1,11 @@
+﻿  Source.cpp
+c:\users\pingwin\documents\visual studio 2015\projects\zaj03\zaj03\zaj03\source.cpp(462): warning C4305: '+=': truncation from 'double' to 'GLfloat'
+c:\users\pingwin\documents\visual studio 2015\projects\zaj03\zaj03\zaj03\source.cpp(467): warning C4305: '-=': truncation from 'double' to 'GLfloat'
+c:\users\pingwin\documents\visual studio 2015\projects\zaj03\zaj03\zaj03\source.cpp(519): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\pingwin\documents\visual studio 2015\projects\zaj03\zaj03\zaj03\source.cpp(521): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\pingwin\documents\visual studio 2015\projects\zaj03\zaj03\zaj03\source.cpp(523): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\pingwin\documents\visual studio 2015\projects\zaj03\zaj03\zaj03\source.cpp(525): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\pingwin\documents\visual studio 2015\projects\zaj03\zaj03\zaj03\source.cpp(628): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(2254): note: see declaration of 'sscanf'
+  Zaj03.vcxproj -> C:\Users\Pingwin\documents\visual studio 2015\Projects\zaj03\Zaj03\Debug\Zaj03.exe
+  Zaj03.vcxproj -> C:\Users\Pingwin\documents\visual studio 2015\Projects\zaj03\Zaj03\Debug\Zaj03.pdb (Partial PDB)
