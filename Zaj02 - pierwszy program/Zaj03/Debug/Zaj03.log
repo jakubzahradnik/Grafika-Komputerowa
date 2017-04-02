@@ -1,0 +1,5 @@
+﻿  Source.cpp
+c:\users\pingwin\documents\visual studio 2015\projects\zaj03\zaj03\zaj03\source.cpp(39): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\pingwin\documents\visual studio 2015\projects\zaj03\zaj03\zaj03\source.cpp(40): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+  Zaj03.vcxproj -> C:\Users\Pingwin\documents\visual studio 2015\Projects\zaj03\Zaj03\Debug\Zaj03.exe
+  Zaj03.vcxproj -> C:\Users\Pingwin\documents\visual studio 2015\Projects\zaj03\Zaj03\Debug\Zaj03.pdb (Partial PDB)
