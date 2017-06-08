@@ -1,0 +1,19 @@
+﻿  targa.cpp
+c:\users\pingwin\desktop\darksv-gk9-c055c6e77f99\gk_9\targa.cpp(41): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+c:\users\pingwin\desktop\darksv-gk9-c055c6e77f99\gk_9\targa.cpp(121): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: see declaration of 'fopen'
+  Source.cpp
+c:\users\pingwin\desktop\darksv-gk9-c055c6e77f99\gk_9\source.cpp(126): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+c:\users\pingwin\desktop\darksv-gk9-c055c6e77f99\gk_9\source.cpp(220): warning C4311: 'type cast': pointer truncation from 'GLvoid *' to 'GLuint'
+c:\users\pingwin\desktop\darksv-gk9-c055c6e77f99\gk_9\source.cpp(220): warning C4302: 'type cast': truncation from 'GLvoid *' to 'GLuint'
+c:\users\pingwin\desktop\darksv-gk9-c055c6e77f99\gk_9\source.cpp(225): warning C4311: 'type cast': pointer truncation from 'GLvoid *' to 'GLuint'
+c:\users\pingwin\desktop\darksv-gk9-c055c6e77f99\gk_9\source.cpp(225): warning C4302: 'type cast': truncation from 'GLvoid *' to 'GLuint'
+c:\users\pingwin\desktop\darksv-gk9-c055c6e77f99\gk_9\source.cpp(306): warning C4244: '+=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\pingwin\desktop\darksv-gk9-c055c6e77f99\gk_9\source.cpp(308): warning C4244: '-=': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\pingwin\desktop\darksv-gk9-c055c6e77f99\gk_9\source.cpp(317): warning C4305: '+=': truncation from 'double' to 'GLfloat'
+c:\users\pingwin\desktop\darksv-gk9-c055c6e77f99\gk_9\source.cpp(321): warning C4305: '-=': truncation from 'double' to 'GLfloat'
+c:\users\pingwin\desktop\darksv-gk9-c055c6e77f99\gk_9\source.cpp(357): warning C4312: 'type cast': conversion from 'GLuint' to 'GLvoid *' of greater size
+  Generating Code...
+  GK_9.vcxproj -> C:\Users\Pingwin\Desktop\darksv-gk9-c055c6e77f99\x64\Debug\GK_9.exe
+  GK_9.vcxproj -> C:\Users\Pingwin\Desktop\darksv-gk9-c055c6e77f99\x64\Debug\GK_9.pdb (Partial PDB)
