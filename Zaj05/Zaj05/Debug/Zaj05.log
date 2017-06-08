@@ -1,5 +1,0 @@
-﻿  Zaj05.cpp
-c:\users\pingwin\documents\visual studio 2015\projects\zaj05\zaj05\zaj05\zaj05.cpp(894): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
-  VectorMath.cpp
-c:\users\pingwin\documents\visual studio 2015\projects\zaj05\zaj05\zaj05\vectormath.cpp(124): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "stdafx.h"' to your source?
-  Generating Code...
